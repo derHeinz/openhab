@@ -34,6 +34,7 @@
 					<jvmArg>-Xmx512m</jvmArg>
 				</jvmArgs>
 		      </jvmSettings>
+			  <outletSrcDir>src-gen</outletSrcDir>
 	        </configuration>
 	        <executions>
 	          <execution>
